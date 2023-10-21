@@ -1,0 +1,2 @@
+# Some Muti Threading Practice Solutions
+Just started reading a book the art of multiProcessor programming, will try to attempt the problems that interests me keep on posting here as I go through the book. Lets see If I'll be able to finish the book. Java is tough
